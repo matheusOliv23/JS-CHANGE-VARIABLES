@@ -1,0 +1,22 @@
+:root {
+    --base: #ffc600;
+    --spacing: 10px;
+    --blur: 10px;
+}
+
+body {
+    text-align: center;
+    background: #193549;
+    font-family: 'helvetica neue', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+    color: white;
+}
+
+.h1 {
+    color: var(--base);
+}
+
+.controls {
+    margin-bottom: 50px;
+}
